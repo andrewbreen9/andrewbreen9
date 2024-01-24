@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @andrewbreen9
+- 👀 I’m interested in neuroscienece, fMRI, longitudinal imaging...
+- 🌱 I’m currently learning ... a lot about MRI data analysis
+- 💞️ I’m looking to collaborate on ... Longitudinal imaging with fMRI
+- 📫 How to reach me: breena5@tcd.ie
+- 😄 Pronouns: he/him
